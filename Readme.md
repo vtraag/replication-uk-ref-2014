@@ -1,5 +1,7 @@
 # Replication
 
+[![DOI](https://zenodo.org/badge/144256394.svg)](https://zenodo.org/badge/latestdoi/144256394)
+
 This repository contains all material necessary to replicate the results of our paper [1]. Code necessary to replicate our results is contained is in the Jupyter Python notebook [`metrics_vs_peer_review.ipynb`](metrics_vs_peer_review.ipynb). This is automatically rendered by GitHub, so you can immediately inspect the code. It can also be run interactively through the <a href="https://mybinder.readthedocs.io/en/latest/">binder</a> service by clicking on the badge below.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vtraag/replication-uk-ref-2014/master?filepath=metrics_vs_peer_review.ipynb)
