@@ -10,4 +10,4 @@ If you run across any problems, please report a new issue using the issue tracke
 
 # References
 
-<a name="1">1.</a> Traag, V.A. & Waltman, L. (2018) Systematic analysis of agreement between metrics and peer review in the UK REF.
+<a name="1">1.</a> Traag, V.A. & Waltman, L. (2018) Systematic analysis of agreement between metrics and peer review in the UK REF. [arXiv:1808.03491](https://arxiv.org/abs/1808.03491)
