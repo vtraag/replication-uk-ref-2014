@@ -1,4 +1,4 @@
-UKPRN,Institution,SortOrder,MainPanel,UOA,UnitOfAssessment,msubId,MultipleSubmission,JointSubmission,Profile,StaffFte,FourStar,ThreeStar,TwoStar,OneStar,Unclassified,n_submission,p,pp_top_prop
+UKPRN,Institution,SortOrder,MainPanel,UOA,UnitOfAssessment,msubId,MultipleSubmission,JointSubmission,Profile,StaffFte,FourStar,ThreeStar,TwoStar,OneStar,Unclassified,n_submission,n_publication,pp_top_prop
 10000291,Anglia Ruskin University,10,A,3,"Allied Health Professions, Dentistry, Nursing and Pharmacy", ,,,Outputs,11.3,6.4,68.1,25.5,0,0,47,45,0.260716846
 10000291,Anglia Ruskin University,10,A,4,"Psychology, Psychiatry and Neuroscience", ,,,Outputs,13.7,10.3,61.5,25.6,2.6,0,39,35,0.142857143
 10000291,Anglia Ruskin University,10,A,5,Biological Sciences, ,,,Outputs,7.25,0,34.8,39.1,4.4,21.7,23,20,0.153541667
